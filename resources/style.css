@@ -1,6 +1,8 @@
 /*font family appears to be the same for all text on the webpage*/
 body {
   font-family: Helvetica;
+  width: auto;
+  background-color: #FFBD33; 
 }
 .header {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
